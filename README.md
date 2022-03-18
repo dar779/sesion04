@@ -1,1 +1,1 @@
-Archivo README.md recién creado
+#Página de Equipo
